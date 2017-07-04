@@ -1,0 +1,8 @@
+F:\Ansh\Task1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Ansh\Task1\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Ansh\Task1\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Ansh\Task1\Calculator\Calculator\bin\Debug\CalculatorLibrary.dll
+F:\Ansh\Task1\Calculator\Calculator\bin\Debug\CalculatorLibrary.pdb
+F:\Ansh\Task1\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Ansh\Task1\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Ansh\Task1\Calculator\Calculator\obj\Debug\Calculator.pdb

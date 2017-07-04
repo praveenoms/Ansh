@@ -1,0 +1,5 @@
+F:\Ansh\Task1\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+F:\Ansh\Task1\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+F:\Ansh\Task1\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojResolveAssemblyReference.cache
+F:\Ansh\Task1\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+F:\Ansh\Task1\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
